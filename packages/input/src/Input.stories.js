@@ -221,6 +221,6 @@ export const SearchPrefixSuffix = () => (
   />
 )
 
-export const inputBotderBottom = () => (
+export const inputBorderBottom = () => (
   <Input variant='InputBorderBottom' variantSize='inputNoBorderRadius' prefix={<Icon icon='icon-contactos' fontSize='14px'/>} placeholder="Jacqueline Gómez" width='200px'/>
 )
